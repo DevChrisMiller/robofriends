@@ -1,2 +1,2 @@
 # robofriends
-Simple React app using states and fetch requests. Type into the search bar to filter to the corresponding robots.
+A simple React app representing the ability to update state and use fetch requests. Type into the search bar to filter to the corresponding robots.
